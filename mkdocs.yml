@@ -1,0 +1,17 @@
+site_name: atom-theme-p-light-syntax
+
+site_url: http://peter1000.github.io/atom-theme-p-light-syntax/
+site_description: A light atom syntax theme. Derivative of Atom's *One Light Syntax Them*.
+repo_url: https://github.com/peter1000/atom-theme-p-light-syntax/
+
+pages:
+- Home: 'index.md'
+- Manual: 'manual.md'
+- About:
+    - 'License': 'LICENSE.md'
+    - 'README': 'README.md'
+
+use_directory_urls: true
+copyright: Copyright &copy; 2015, <strong>peter1000</strong> <a href="https://github.com/peter1000">https://github.com/peter1000</a>. <br /> All rights reserved.
+
+theme: 'bootstrap'

@@ -1,0 +1,16 @@
+{
+    "name": "atom-theme-p-light-syntax",
+    "theme": "syntax",
+    "version": "0.0.0",
+    "description": "A light atom syntax theme. Derivative of Atom's *One Light Syntax Them*.",
+    "keywords": [
+        "light",
+        "syntax",
+        "theme"
+    ],
+    "repository": "https://github.com/peter1000/atom-theme-p-light-syntax",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0"
+    }
+}
