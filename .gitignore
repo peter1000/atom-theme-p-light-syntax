@@ -1,0 +1,20 @@
+.DS_Store
+npm-debug.log
+node_modules
+
+# Backups
+*~
+
+# MkDocs build
+site/
+
+
+# Temp and status files
+*.db
+.*.swp
+*.log
+*.pid
+pidfile
+.DS_Store
+*.rc
+pip-log.txt
